@@ -3,7 +3,7 @@ Repository to store work for BCorps Impact Analysis File
 #### **Community Impact Area**: 
 From the B-analytics standards navigator: The community impact area “evaluates the company’s positive impact on the eternal communities in which the company operates.” This includes things like diversity measures, economic impact, civic engagement, and supply chain impact. A scatterplot mapping the community impact area scores of all US B Corps in our dataset vs. the overall impact scores shows that variation in overall impact scores can be explained about 38% of the time by variation in community impact scores. In layman’s terms, the community impact area is responsible for about 38% of the overall score. 
 
-![scatterplot showing relationship between community impact area and overall impact score, general upward trend, blue linear regression line](community_ia_vs_overall.png)
+![scatterplot showing relationship between community impact area and overall impact score, general upward trend, blue linear regression line](Impact Area Scatterplots/community_ia_vs_overall.png)
 
 #### **Environment Impact Area**:
 From the B-analytics standards navigator: The environment impact area measures overall environmental stewardship of the company, asking questions in areas such as how the company identifies and manages general environmental impacts, specifically with things like air and climate issues, water sustainability, and impacts on land and life. A scatterplot mapping the environment impact area score vs the overall impact score shows that variation in overall impact scores can be explained about 15% of the time by variation in environment impact scores. In layman’s terms, the environment impact area is responsible for about 15% of the overall score.
