@@ -48,7 +48,23 @@ Calculating simple correlation coefficients between each impact area and the ove
 *These data show that while all impact areas play a role in calculating the final impact score, the variance in overall impact scores in this dataset is best explained (and best correlated with) the community and customers impact areas, suggesting that companies looking to improve their impact scores may wish to prioritize improvement in their community and customers impact areas first.*
 
 ### *Does a company's impact score improve or worsen over the course of their tenure of certification?*
+![line graph showing clear upward trend of B Corps increasing their impact score from cycle to cycle of certification](Images/scorebycycle.png)
 
-### *What industries tend to have higher impact scores?*
+When considering the data as a whole, B Corps tend to increase their impact score from certification cycle to certification cycle. 
+
+### *What industries (or sectors) tend to have higher impact scores?*
+B-Certification Corporation has identified six major sectors. These are Services with Minor Environmental Footprint; Wholesale/Retail; Services with Significant Environmental Footprint; Manufacturing; Agriculture/Growers, and Service sectors. It’s interesting to note that there is a distinction between “service”, “service with minor environmental footprint” and “service with significant environmental footprint”. There are only seven companies labeled purely as operating in the “service” sector, while there are 1931 companies operating in the “service with minor environmental footprint” sector, and 259 companies operating in the “service with significant environmental footprint” sector. There are 696 companies operating in the “wholesale/retail” sector, 417 companies operating in the “manufacturing” sector, and 80 companies operating in the “agriculture/growers” sector.
+
+The sector with the highest average impact score is “agriculture/growers” with an average impact score of 101.26. However, the maximum impact score for this sector is 148.5, which is the second lowest maximum impact score. The sector with the highest maximum impact score is “service with significant environmental footprint” with a maximum impact score of 184.0; the average impact score for this sector is 99.77, which is the second highest average impact score. The sector with the lowest maximum impact score and the lowest average is the “service” sector, with an average impact score of 90.53, and a maximum impact score of 107. 
+
+![boxplot showing the differences in impact score from industry to industry, service is the lowest and service with a minor environmental footprint has the highest scores but with a fair amount of outliers](Images/sectorscoreboxplt.png)
+
+A one-way ANOVA shows a significant difference in group averages (p = 0.001), and a post-hoc Tukey's Test shows that the differences lie between Wholesale/Retail and the two service groups that track environmental footprint. Wholesale/Retail is significantly lower than both service industry categories that track footprint. 
+
 
 ### *What industries tend to improve their impact score over multiple certification cycles? What industries tend to worsen their impact score over multiple certification cycles?*
+![line graph with multiple colors showing change in overall impact score from certification cycle to certification cycle by industry](Images/avgscorebysector-cycle_line.png)
+
+This graph offers similar insight to the previous graph, but shows that while most sectors follow the overall trend of improving their impact score from cycle to cycle (with the exception of the Service sector, but this can be easily explained by a low sample size interfering with calculations), agriculture most dramatically increases their impact scores from cycle to cycle. 
+
+
