@@ -67,4 +67,6 @@ A one-way ANOVA shows a significant difference in group averages (p = 0.001), an
 
 This graph offers similar insight to the previous graph, but shows that while most sectors follow the overall trend of improving their impact score from cycle to cycle (with the exception of the Service sector, but this can be easily explained by a low sample size interfering with calculations), agriculture most dramatically increases their impact scores from cycle to cycle. 
 
-
+### *Do publicly traded B Corps see an increase in profit as their impact score increases?*
+![line graph showing changes in profit for Laureate Education Company, shows overall increase with marked decrease around 2020 first quarter filing](Images/laureateprofit.png)
+Laureate Education is currently the only publicly traded B Corp, but still offers an interesting case study in whether increase in impact scores corresponds to an increase in profit. 
