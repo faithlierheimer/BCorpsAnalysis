@@ -16,7 +16,7 @@ We also referenced the [B Analytics Standards Navigator](https://b-analytics.net
 
 ### *What is the relative influence of each impact area on the overall impact score?* 
 #### **Community Impact Area**: 
-From the B-analytics standards navigator: The community impact area “evaluates the company’s positive impact on the eternal communities in which the company operates.” This includes things like diversity measures, economic impact, civic engagement, and supply chain impact. A scatterplot mapping the community impact area scores of all US B Corps in our dataset vs. the overall impact scores shows that variation in overall impact scores can be explained about 38% of the time by variation in community impact scores. In layman’s terms, the community impact area is responsible for about 38% of the overall score. 
+From the B-analytics standards navigator: The community impact area “evaluates the company’s positive impact on the external communities in which the company operates.” This includes things like diversity measures, economic impact, civic engagement, and supply chain impact. A scatterplot mapping the community impact area scores of all US B Corps in our dataset vs. the overall impact scores shows that variation in overall impact scores can be explained about 38% of the time by variation in community impact scores. In layman’s terms, the community impact area is responsible for about 38% of the overall score. 
 
 ![scatterplot showing relationship between community impact area and overall impact score, general upward trend, blue linear regression line](Images/community_ia_vs_overall.png)
 
